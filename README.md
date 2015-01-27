@@ -1,2 +1,2 @@
 # hello-world
-测试项目
+hello everyone, today is a new day for me!
